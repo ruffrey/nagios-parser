@@ -1,3 +1,7 @@
 # nagios config parser library
 
-https://gopkg.in/ruffrey/nagios-parser.v1
+A simple parser library to get the hostname and address from a Nagios config file.
+
+Documentation:
+
+https://gopkg.in/ruffrey/nagios-parser.v1/parser
